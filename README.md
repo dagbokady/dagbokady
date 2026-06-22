@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Dagbo Kady</h1>
+<h1 align="center">Hi 👋, I'm Christ Phanuel Dagbo</h1>
 
-<h3 align="center">Software Engineer | JavaScript & Python Enthusiast</h3>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | JavaScript & Python Enthusiast</h3>
+
+<p align="center">
+Passionate about designing, building, and optimizing modern web applications with a focus on clean architecture, performance, and user experience.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Passionate about building scalable and efficient web applications
-* ⚡ Focused on clean code, performance, and user experience
-* 🌱 Currently deepening my skills in **Python** and backend development
-* 📚 Always learning and exploring new technologies
+- 🎓 Master's student in Software Engineering
+- 💻 Passionate about software development and problem-solving
+- 🌱 Currently improving my skills in Backend Development, Python, and Software Architecture
+- ⚡ Interested in scalable systems, APIs, and modern web technologies
+- 📚 Continuous learner exploring new tools, frameworks, and best practices
 
 ---
 
@@ -20,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/dagbokady" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -31,57 +36,62 @@
 ### 💡 Languages
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
 </p>
 
-### 🧰 Tools & DevOps
+### 🧰 Tools & Technologies
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>
 </p>
 
 ---
 
-## 📌 Current Focus
+## 🎯 Current Focus
 
-* Strengthening backend architecture skills
-* Building full-stack applications with modern tools
-* Improving problem-solving and system design
+- Building robust full-stack applications
+- Strengthening backend and API development skills
+- Learning software architecture and system design principles
+- Writing clean, maintainable, and scalable code
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dagbokady&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagbokady&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dagbokady&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dagbokady&theme=tokyonight" />
 </p>
 
+---
 
+## 💡 Motto
+
+> "Code with purpose, learn continuously, and build solutions that matter."
