@@ -6,16 +6,10 @@
 </h3>
 
 <p align="center">
-  I build software products, explore how systems work under the hood,
-  and continuously improve my engineering skills through real projects.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/christ-phanuel-dagbo-113b19259">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
----
 
 ## 👨🏾‍💻 About Me
 
